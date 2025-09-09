@@ -95,8 +95,7 @@ Using Swagger UI
 
 📹 Demo Video
 
-👉 Full executed video (terminal →Web port and Swagger UI → outputs → unit tests):
-http//:googledrive.com
+👉 Full executed video (terminal →Web port and Swagger UI → outputs → unit tests): https://drive.google.com/file/d/1G_GZos82DEmXzgCmEAbn90r9-GAPiq3O/view?usp=drive_link
 
 ---
 
