@@ -112,5 +112,5 @@ Swagger UI : https://swagger.io/tools/swagger-ui/
 
 No database → In-memory only.
 Thread-safe implementation.
-Deployed backend on Railway and on GitHub Pages.
+Deployed backend on GitHub Pages.
 Used Java, J2EE, J2SE, GitHub, Spring Boot, HTML, CSS ,Referred to external docs/tutorials for Bucket4j, Swagger.
