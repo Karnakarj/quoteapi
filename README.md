@@ -24,13 +24,9 @@ After the limit is exceeded, the API responds with HTTP 429 {"error": "Rate limi
 quote-api/
 
 ├── src/
-
 │   ├── main/
-
 │   │   ├── java/com/example/quoteapi/
-
 │   │   │   ├── QuoteApiApplication.java
-
 │   │   │   ├── config/
 │   │   │   │   ├── SwaggerConfig.java
 │   │   │   │   ├── RateLimitConfig.java
