@@ -3,7 +3,7 @@
 ## 🎯 Objective
 This project implements a RESTful API that returns a random inspirational quote.  
 It includes IP-based rate limiting to ensure fair usage — each client IP can make only 5 requests per minute.  
-After the limit is exceeded, the API responds with HTTP 429 {"error": "Rate limit exceeded. Try again in X seconds."}.
+After the limit is exceeded, the API responds with HTTP 429 Too Many Requests.
 
 ---
 
