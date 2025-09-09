@@ -4,6 +4,6 @@
     { "src": "pom.xml", "use": "@vercel/static-build", "config": { "distDir": "target" } }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "/target/yourapp.jar" }
+    { "src": "/(.*)", "dest": "/target/app.jar" }
   ]
 }
